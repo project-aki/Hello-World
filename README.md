@@ -12,4 +12,4 @@ Translation-korean
 =========
 같이 기여 하실 분은 ttakkku#6166로 친추 보내고 DM으로 하겠다고 보내주세요
 
-### 현재 기여자 : NEOLINE
+### 현재 기여자 : NEOLINE, ttakkku
