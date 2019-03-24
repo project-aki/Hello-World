@@ -1,1 +1,1 @@
-VISIBLE "Hello world!"
+VISIBLE "안녕 "
