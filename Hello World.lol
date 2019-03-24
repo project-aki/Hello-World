@@ -1,1 +1,1 @@
-VISIBLE "안녕 "
+VISIBLE "안녕 세상아"
