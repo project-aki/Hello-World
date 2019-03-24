@@ -1,1 +1,1 @@
-PRINT "Hello world!"
+PRINT "안녕 세상아"
