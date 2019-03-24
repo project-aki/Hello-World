@@ -3,4 +3,4 @@
 -export([start/0]). 
 
 start() -> 
-   io:fwrite("안녕 \n").
+   io:fwrite("안녕 세상아\n").
