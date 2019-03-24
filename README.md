@@ -5,4 +5,5 @@
 Warning
 ======
 Translation-korean
+*en-Hello World|kr-안녕 세상아
 
