@@ -9,7 +9,7 @@ namespace Hello_World
     {
          static void Main(string[] args)
          {
-           console.WriteLine("Hello World");
+           console.WriteLine("안녕 세상아");
            console.ReadLine();
          }
     }
