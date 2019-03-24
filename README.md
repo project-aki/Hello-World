@@ -8,8 +8,4 @@ Translation-korean
 
 *en-Hello World|kr-안녕 세상아*
 
-**기여자**
-=========
-같이 기여 하실 분은 ttakkku#6166로 친추 보내고 DM으로 하겠다고 보내주세요
-
 ### Current contributor: [NEOLINE](https://github.com/code325), [ttakkku](https://github.com/ttakkku)
