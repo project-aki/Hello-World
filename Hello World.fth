@@ -1,2 +1,2 @@
-: GREET S" Hello World!" ;
+: GREET S" 안녕 " ;
 GREET TYPE
