@@ -2,7 +2,7 @@
 <body>
 
 <?php 
- echo "Hello World";
+ echo "안녕 세상아";
 ?>
 
 </body>

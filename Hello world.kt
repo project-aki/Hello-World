@@ -1,5 +1,5 @@
 package Hello_World
 
 fun main(args : Array<String>) {
-    printIn("Hello World")
+    printIn("안녕 세상아")
 }
