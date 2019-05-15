@@ -15,7 +15,6 @@ Hello World
 **Hello World** __Hello World__ // `**Hello World**` = `__Hello World__`
 
 [Hello World](http://www.helloworlds.co.kr/) [Hello World](http://www.helloworlds.co.kr/ "Hello World")
-`[Hello World](http://www.helloworlds.co.kr/)` = `[Hello World](http://www.helloworlds.co.kr/ "Hello World")`
 
 >Hello World
 
