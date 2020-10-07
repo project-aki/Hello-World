@@ -1,4 +1,10 @@
 Introduction
 ======
 
-[ (Gist) ](https://gist.github.com/ttakkku/9677f9f4bdcbfab36923676cabe4a1a7)
+_Hello, everyone!_
+
+Contributors do not know multilingual, but are writing to the maximum number of languages 
+
+​​they know, and if there is a typo or language, 
+
+open Issues to let contributors know!
