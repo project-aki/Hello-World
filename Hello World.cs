@@ -9,8 +9,8 @@ namespace Hello_World
     {
          static void Main(string[] args)
          {
-           console.WriteLine("안녕 세상아");
-           console.ReadLine();
+           Console.WriteLine("안녕 세상아");
+           Console.ReadLine();
          }
     }
 }
